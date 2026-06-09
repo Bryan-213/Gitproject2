@@ -1,8 +1,8 @@
 public class Test {
     static void main() {
-        System.out.println("Hello World");
-        System.out.println("This is the project version 2");
+
+        System.out.println("This is the project version 4");
 
     }
 }
-// done with version three
+// done with version four
